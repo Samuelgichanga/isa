@@ -4,8 +4,6 @@ numpy
 nltk
 tensorflow
 gunicorn
-textblob
-fastapi
 uvicorn
 attrs==23.1.0
 beautifulsoup4==4.12.2
